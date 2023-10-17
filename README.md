@@ -66,7 +66,7 @@ ShortGPT is a powerful framework for automating content creation. It simplifies 
 
 If you prefer not to install the prerequisites on your local system, you can use the Google Colab notebook. This option is free and requires no installation setup.
 
-1. Click on the link to the Google Colab notebook: [https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE?usp=sharing](https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE?usp=sharing)
+1. Click on the link to the Google Colab notebook: [https://colab.research.google.com/drive/1ngabwv51km5lljEkI7fa_YPW-0I0JqdN?usp=sharing](https://colab.research.google.com/drive/1ngabwv51km5lljEkI7fa_YPW-0I0JqdN?usp=sharing)
 
 2. Once you're in the notebook, simply run the cells in order from top to bottom. You can do this by clicking on each cell and pressing the 'Play' button, or by using the keyboard . Enjoy using ShortGPT!
 
